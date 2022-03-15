@@ -1,0 +1,5 @@
+*.txt
+*.pdf
+/test/
+/samples/
+Credentials.abc
